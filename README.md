@@ -20,7 +20,7 @@ Sign up for this repository. You can ask for access by creating an [issue](../..
 
 ## The Rules
 
-The only rule is that you help translating at least one project to another language :)
+The only rule is that you help out translating to your own language :)
 
 This activity starts on January 1st 2017 and ends February 1st 2017. 
 
