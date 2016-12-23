@@ -10,18 +10,19 @@ This is why we start this __challenge__: i18n me. We invite you to tell us about
  
 _(We will also be using this challenge to get a first indication of interesting projects in Europe.)_
 
-## The Rules
-
-The only rule is that you actually do something ;-)
-
-This activity starts on January 1st 2017 and ends February 1st 2017. 
-
 ## Participating
 
 Sign up for this repository. You can ask for access by creating an [issue](../../issues/new). This issue should have one of the following:
 
   * A project you would like to propose (and/or)
   * If you would like to participate in i18n-me helping out coding
+
+
+## The Rules
+
+The only rule is that you help translating at least one project to another language :)
+
+This activity starts on January 1st 2017 and ends February 1st 2017. 
 
 ## Resources
 
